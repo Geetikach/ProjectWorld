@@ -1,0 +1,9 @@
+E:\Work\Net\R&D\Core.Work\DataBaseAccess\bin\Debug\DataBaseAccess.dll
+E:\Work\Net\R&D\Core.Work\DataBaseAccess\bin\Debug\DataBaseAccess.pdb
+E:\Work\Net\R&D\Core.Work\DataBaseAccess\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+E:\Work\Net\R&D\Core.Work\DataBaseAccess\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+E:\Work\Net\R&D\Core.Work\DataBaseAccess\bin\Debug\Newtonsoft.Json.dll
+E:\Work\Net\R&D\Core.Work\DataBaseAccess\bin\Debug\Newtonsoft.Json.xml
+E:\Work\Net\R&D\Core.Work\DataBaseAccess\obj\Debug\DataBaseAccess.csprojResolveAssemblyReference.cache
+E:\Work\Net\R&D\Core.Work\DataBaseAccess\obj\Debug\DataBaseAccess.dll
+E:\Work\Net\R&D\Core.Work\DataBaseAccess\obj\Debug\DataBaseAccess.pdb

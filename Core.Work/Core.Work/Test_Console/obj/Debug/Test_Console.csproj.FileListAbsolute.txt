@@ -1,0 +1,7 @@
+E:\Work\Net\R&D\Core.Work\Test_Console\bin\Debug\Test_Console.exe.config
+E:\Work\Net\R&D\Core.Work\Test_Console\bin\Debug\Test_Console.exe
+E:\Work\Net\R&D\Core.Work\Test_Console\bin\Debug\Test_Console.pdb
+E:\Work\Net\R&D\Core.Work\Test_Console\bin\Debug\Newtonsoft.Json.dll
+E:\Work\Net\R&D\Core.Work\Test_Console\bin\Debug\Newtonsoft.Json.xml
+E:\Work\Net\R&D\Core.Work\Test_Console\obj\Debug\Test_Console.exe
+E:\Work\Net\R&D\Core.Work\Test_Console\obj\Debug\Test_Console.pdb
